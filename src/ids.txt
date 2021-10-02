@@ -529,5 +529,8 @@ export default {
   }
   
 
+https://developers.google.com/custom-search/v1/introduction#identify_your_application_to_google_with_api_key
 
+
+https://cse.google.com/cse/setup/basic?cx=ee64531f097548879
 
